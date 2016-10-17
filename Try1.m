@@ -92,7 +92,7 @@ b=(sign(randn(N,1))+1)/2;
 Xk=bits_to_2PAM(b,N)
 
 %b 
-
+%ti malakies kanw
 
 
 
